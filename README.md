@@ -7,3 +7,5 @@ Credits From the files To SeeDoubleYous In XDA Forums, since thanks to him I was
 
 🐈So... Do you want to give a second life to your SM-T560?
 You are in the right place!
+
+🐈Here you will learn how to install a recovery and a custom rom to your SM-T560
