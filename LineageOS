@@ -1,2 +1,36 @@
 🐈Now you have the Recovery, Now to install the custom rom
 
+🐈Step 1, Put the files 
+
+lineage-14.1-20180419-UNOFFICIAL-gtel3g.zip
+
+open_gapps-arm-7.1-nano-20220215.zip
+
+keys.zip and 3-boot.img to a sd card. (minimum 4 GB of storage)
+
+🐈Step 2, Put the SD to the tablet, go to twrp by pressing POWER+VOL UP+HOME while it is off.
+
+(for this process I recommend at least 50% battery)
+
+🐈Step 3, Make a backup of the modem, go to backup, select [MODEM], select storage, sd card, check boot and system in case you have problems and then swipe to backup
+
+🐈Step 4 go to reboot and then recovery, this will restart twrp to prevent problems.
+
+🐈Step 5 Go to wipe > Advanced Wipe > (Select Dalvik Cache, System, Data, Internal Storage, Cache ONLY) > Swipe to WIPE
+
+🐈Step 6 Install > Select Storage > Micro SD Card > Select lineage-14.1-20180419-UNOFFICIAL-gtel3g.zip
+
+🐈 Step 7 Add More Zips >  Select The GApps and the keys.zip, Swipe to confirm and wait 5-10 minutes
+
+🐈 Step 8 After the Flash process DO NOT restart system.
+
+🐈Step 9 Go back to Install > Install Image > boot.img > Select Boot Partition > Swipe to confirm flash
+
+🐈Step 10 After the boot.img has been flashed DO NOT restart system IF you want Root. Go back to Install > Install Zip > SR3-SuperSU-v2.82-SR3-20170813133244.zip > Swipe to confirm flashNow Restart System.Wait 10-15 mins, it will take some time,Afther finish, restart to system,configure like a new tablet and now
+
+
+🐈Step 11 Enjoy Lineage OS!
+
+
+( Credits to SeeDoubleYous and 
+ashyx in xda forums to the files)
