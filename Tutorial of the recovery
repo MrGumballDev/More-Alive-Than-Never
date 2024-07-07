@@ -15,3 +15,12 @@ The first thing of all is to have odin, Odin is a tool that allows you to instal
 
 🐈Step 3, Unzip Odin and open the .exe as Admin
 
+🐈Step 4 In the box that says AP, put the twrp .tar
+
+🐈Step 5, Now turn off your tablet, put it in download mode, to do so, press POWER+VOL UP+HOME, a confirmation screen will appear, to confirm, press volume up, if you think you are not ready, press volume down and your tablet will restart.
+
+🐈Step 6, In Odin go to [options] and uncheck the [auto-reboot] box there.
+
+🐈Step 7, Now Connect your tableet to usb.
+
+🐈Step 8, Now press [Start], a loading bar will appear on your tablet, in odin when it says [PASS!] above, disconnect your tablet and turn it off
